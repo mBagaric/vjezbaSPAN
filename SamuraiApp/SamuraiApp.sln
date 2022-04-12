@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.1.32328.378
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SamuraiApp.Domain", "SamuraiApp.Domain\SamuraiApp.Domain.csproj", "{8D4D7578-D61C-4C70-B4EE-ECA71A82B34E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SamuraiApp.Domain", "SamuraiApp.Domain\SamuraiApp.Domain.csproj", "{9FC8B79F-D5E6-48BF-A4C3-B34ABE30B1E9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SamuraiApp.Data", "SamuraiArr.Data\SamuraiApp.Data.csproj", "{F3C87EBF-68D1-4947-B9B7-04234D02D2E5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SamuraiApp.Data", "SamuraiApp.Data\SamuraiApp.Data.csproj", "{7177C841-E832-4EEC-BEA7-EE6F53AF763E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SamuraiApp.UI", "SamuraiApp.UI\SamuraiApp.UI.csproj", "{70AFE979-3772-4407-9CD9-8D6563830CB7}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SamuraiApp.UI", "SamuraiApp.UI\SamuraiApp.UI.csproj", "{8D5AA5E5-0732-4F97-AAD4-092EB411422E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,23 +15,23 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{8D4D7578-D61C-4C70-B4EE-ECA71A82B34E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{8D4D7578-D61C-4C70-B4EE-ECA71A82B34E}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{8D4D7578-D61C-4C70-B4EE-ECA71A82B34E}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{8D4D7578-D61C-4C70-B4EE-ECA71A82B34E}.Release|Any CPU.Build.0 = Release|Any CPU
-		{F3C87EBF-68D1-4947-B9B7-04234D02D2E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{F3C87EBF-68D1-4947-B9B7-04234D02D2E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{F3C87EBF-68D1-4947-B9B7-04234D02D2E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{F3C87EBF-68D1-4947-B9B7-04234D02D2E5}.Release|Any CPU.Build.0 = Release|Any CPU
-		{70AFE979-3772-4407-9CD9-8D6563830CB7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{70AFE979-3772-4407-9CD9-8D6563830CB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{70AFE979-3772-4407-9CD9-8D6563830CB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{70AFE979-3772-4407-9CD9-8D6563830CB7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9FC8B79F-D5E6-48BF-A4C3-B34ABE30B1E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9FC8B79F-D5E6-48BF-A4C3-B34ABE30B1E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9FC8B79F-D5E6-48BF-A4C3-B34ABE30B1E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9FC8B79F-D5E6-48BF-A4C3-B34ABE30B1E9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7177C841-E832-4EEC-BEA7-EE6F53AF763E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7177C841-E832-4EEC-BEA7-EE6F53AF763E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7177C841-E832-4EEC-BEA7-EE6F53AF763E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7177C841-E832-4EEC-BEA7-EE6F53AF763E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D5AA5E5-0732-4F97-AAD4-092EB411422E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D5AA5E5-0732-4F97-AAD4-092EB411422E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D5AA5E5-0732-4F97-AAD4-092EB411422E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D5AA5E5-0732-4F97-AAD4-092EB411422E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {2CBA6FD9-BBDC-4B12-8516-4C57D9867E00}
+		SolutionGuid = {8155BE2B-FC86-43B0-AFAD-D63BB6F7A4ED}
 	EndGlobalSection
 EndGlobal
