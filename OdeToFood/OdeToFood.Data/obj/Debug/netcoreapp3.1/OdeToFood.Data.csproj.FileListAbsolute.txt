@@ -11,3 +11,6 @@ C:\Users\mbagaric\OneDrive - SPAN d.d\Dokumenti\moje\vjezbaSPAN\OdeToFood\OdeToF
 C:\Users\mbagaric\OneDrive - SPAN d.d\Dokumenti\moje\vjezbaSPAN\OdeToFood\OdeToFood.Data\obj\Debug\netcoreapp3.1\OdeToFood.Data.csproj.CopyComplete
 C:\Users\mbagaric\OneDrive - SPAN d.d\Dokumenti\moje\vjezbaSPAN\OdeToFood\OdeToFood.Data\obj\Debug\netcoreapp3.1\OdeToFood.Data.dll
 C:\Users\mbagaric\OneDrive - SPAN d.d\Dokumenti\moje\vjezbaSPAN\OdeToFood\OdeToFood.Data\obj\Debug\netcoreapp3.1\OdeToFood.Data.pdb
+C:\Users\mbagaric\OneDrive - SPAN d.d\Dokumenti\moje\vjezbaSPAN\OdeToFood\OdeToFood.Data\bin\Debug\netcoreapp3.1\OdeToFood.Data.runtimeconfig.json
+C:\Users\mbagaric\OneDrive - SPAN d.d\Dokumenti\moje\vjezbaSPAN\OdeToFood\OdeToFood.Data\bin\Debug\netcoreapp3.1\OdeToFood.Data.runtimeconfig.dev.json
+C:\Users\mbagaric\OneDrive - SPAN d.d\Dokumenti\moje\vjezbaSPAN\OdeToFood\OdeToFood.Data\obj\Debug\netcoreapp3.1\OdeToFood.Data.genruntimeconfig.cache
